@@ -23,7 +23,7 @@ export default function NavBar() {
 
         <div className="d-flex gap-2 justify-content-end" style={{ flex: 1 }}>
           <button type="button" className="btn btn-transparent text-light">FAZER LOGIN</button>
-          <button type="button" className="btn btn-dark py-4" style={{ borderRadius: 0, width: 180 }}>COMECE AGORA</button>
+          <button type="button" className="btn btn-light py-4" style={{ borderRadius: 0, width: 180 }}>COMECE AGORA</button>
         </div>
       </div>
     </nav>
