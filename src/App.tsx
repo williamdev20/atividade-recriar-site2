@@ -6,6 +6,7 @@ import Tools from './components/Tools';
 import Resources from './components/Resources';
 import Monetization from './components/Monetization';
 import Kit from './components/Kit';
+import Questions from './components/Questions';
 import Avaliation from './components/Avaliation';
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Resources />
       <Monetization />
       <Kit />
+      <Questions />
       <Avaliation />
     </>
   )
