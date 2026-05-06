@@ -8,6 +8,7 @@ import Monetization from './components/Monetization';
 import Kit from './components/Kit';
 import Questions from './components/Questions';
 import Avaliation from './components/Avaliation';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Kit />
       <Questions />
       <Avaliation />
+      <Footer />
     </>
   )
 }
