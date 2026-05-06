@@ -3,6 +3,7 @@ import NavBar from './components/NavBar';
 import Hero from './components/Hero';
 import Templates from './components/Templates';
 import Tools from './components/Tools';
+import Resources from './components/Resources';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <Templates />
       <Tools />
+      <Resources />
     </>
   )
 }
