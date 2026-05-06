@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import Templates from './components/Templates';
 import Tools from './components/Tools';
 import Resources from './components/Resources';
+import Monetization from './components/Monetization';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Templates />
       <Tools />
       <Resources />
+      <Monetization />
     </>
   )
 }
